@@ -14,7 +14,12 @@ Puis personnalisé le dans Scene Builder ou vous même
 ## Usage
 Mes Update Librairie et Launcher sont en face alpha
 
-##
+## Changement 
+- Mise en Place d'un système S-Update
+- Ajout d'un compatibilité avec Mac-OS
+- Implémentation d'un panel de gestion du launcher en ligne
+
+
 ## Contributing
 Je remercie les créateurs d'Alternative API
 
